@@ -61,4 +61,5 @@ button:hover {
     font-size: 45px;
     color: black;
     text-align: right;
+    padding: 5px;
 }
